@@ -4,7 +4,6 @@
 
 <br />
 
-<pre>
 
  목차
  
@@ -13,7 +12,6 @@
  - [CSS 작성 규칙]
  - [Javascript 작성 규칙]
  
-</pre>
 
 <br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
 <br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
