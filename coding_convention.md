@@ -5,13 +5,13 @@
 <br />
 
 
- 목차
+> 목차
  
- - [Naming 규칙](#naming)
- - [HTML 작성 규칙]
- - [CSS 작성 규칙]
- - [Javascript 작성 규칙]
- 
+> - [Naming 규칙](#naming)
+> - [HTML 작성 규칙]
+> - [CSS 작성 규칙]
+> - [Javascript 작성 규칙]
+
 
 <br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
 <br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
