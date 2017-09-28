@@ -8,7 +8,7 @@
 
 > Font 크기 단위는 rem을 사용하는것을 원칙으로 합니다.
 
-Font 크기별 px &xhArr; rem 단위 환산표
+### Font 크기별 px &xhArr; rem 단위 환산표
 
 | Pixel(px)  | Root em(rem) |
 | :--------- | :----------- |
