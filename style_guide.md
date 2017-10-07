@@ -8,7 +8,7 @@
 
 > Font 크기 단위는 rem을 사용하는것을 원칙으로 합니다.
 >
-> html, body 의 기본 폰트 16px로 초기화 적용
+> html, body 의 기본 폰트 16px로 초기화 적용 <br />
 > article, aside, details, figcaption, figure, footer, header, menu, nav, section 태그영역의 콘텐츠의 폰트크기를 1.125rem으로 설정
 >
 > px/rem 단위 환산은 16px을 기준으로 환산표를 참고
