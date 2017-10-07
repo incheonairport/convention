@@ -41,7 +41,19 @@
 
 ## 레이어 타입 페이지
 
+#### 제목
+
 ~~~
+제목 뎁스 1
 <h2 class="heading-level1">세관신고</h2>
+
+margin-bottom:40px;
+font-family:nanumsq, sans-serif;
+font-size:2.375rem;
+font-weight:300;
+
+제목 뎁스 2 : <h3 class="heading-level2">외화반출</h3>
+
+제목 뎁스 3 : <h4 class="heading-level3">설치장소</h4>
 ~~~
 
