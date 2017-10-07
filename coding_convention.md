@@ -19,4 +19,4 @@
 
 ## Naming
 
-## HTML 작성 규칙
+## HTML작성규칙
