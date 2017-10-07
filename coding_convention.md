@@ -8,7 +8,7 @@
 > 목차
 >
 > 1. [Naming 규칙](#naming)
-> 2. [HTML 작성 규칙](#----------)
+> 2. [HTML 작성 규칙](#HTML 작성 규칙)
 > 3. [CSS 작성 규칙]
 > 4. [Javascript 작성 규칙]
 
