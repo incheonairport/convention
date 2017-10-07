@@ -18,7 +18,7 @@
 <br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
 <br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
 
-## [Naming 규칙](#){name=naming}
+## <a id="naming">Naming 규칙</a>
 
 <div id="html" />
 ## HTML 작성 규칙
