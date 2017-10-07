@@ -11,7 +11,6 @@
 > 2. [HTML 작성 규칙]
 > 3. [CSS 작성 규칙]
 > 4. [Javascript 작성 규칙]
-[test][1]
 
 
 <br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
@@ -19,4 +18,3 @@
 <br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
 
 ## Naming
-[1]:Naming
