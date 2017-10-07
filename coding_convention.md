@@ -12,7 +12,6 @@
 > 3. [CSS 작성 규칙](#css)
 > 4. [Javascript 작성 규칙](#js)
 
-<div id="naming" />
 ## Naming 규칙
 
 <div id="html" />
