@@ -12,6 +12,7 @@
 > 3. [CSS 작성 규칙]
 > 4. [Javascript 작성 규칙]
 
+[TOC]
 
 <br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
 <br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
@@ -19,4 +20,4 @@
 
 ## Naming
 
-[TOC] ## HTML작성규칙
+## HTML작성규칙
