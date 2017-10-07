@@ -12,19 +12,10 @@
 > 3. [CSS 작성 규칙](#css)
 > 4. [Javascript 작성 규칙](#js)
 
-<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
-<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
-<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
-<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
-<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
-
 ## <a id="naming">Naming 규칙</a>
 
-<div id="html" />
-## HTML 작성 규칙
+## <a id="html">HTML 작성 규칙</a>
 
-<div id="css" />
-## CSS 작성 규칙
+## <a id="css">CSS 작성 규칙</a>
 
-<div id="js" />
-## Javascript 작성 규칙
+## <a id="js">Javascript 작성 규칙</a>
