@@ -36,4 +36,15 @@
 
 ## <a id="css">CSS 작성 규칙</a>
 
+- p, li 태그 기본 줄간격 1.7
+
+#### css 작성 순서
+
+- box 모델
+- 레이아웃 배치
+- 폰트
+- 단락
+- css2 etc
+- css3
+
 ## <a id="js">Javascript 작성 규칙</a>
