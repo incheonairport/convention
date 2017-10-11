@@ -14,6 +14,14 @@
 
 ## <a id="naming">Naming 규칙</a>
 
+이미지 파일명 접두어
+|사진 : img|
+|아이콘 : ico|
+|배경 : bg|
+|로고 : logo|
+|스프라이트 : spr|
+
+
 ## <a id="html">HTML 작성 규칙</a>
 
 ## <a id="css">CSS 작성 규칙</a>
