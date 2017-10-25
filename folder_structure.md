@@ -2,12 +2,9 @@
 
 > 전체 폴더 구조에 대한 가이드입니다.
 
-<pre>
-
-
 Incheon Airport Project
 
-    airport
+    >airport
 
       ┗ css : css 결과 소스
       ┗ css_src : scss 작업 소스
@@ -43,6 +40,3 @@ Incheon Airport Project
     convention
     
       - 퍼블리싱 가이드 소스
-      
-         
-</pre>
