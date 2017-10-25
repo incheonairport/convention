@@ -2,6 +2,8 @@
 
 > 전체 폴더 구조에 대한 가이드입니다.
 
+## 작업 폴더 구조
+
 Incheon Airport Project
 >
 >
@@ -60,3 +62,6 @@ Incheon Airport Project
 >
 >
 > convention : 퍼블리싱 가이드 소스
+
+
+## 서버 반영 폴더 구조
