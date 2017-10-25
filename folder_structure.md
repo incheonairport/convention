@@ -32,7 +32,6 @@ Incheon Airport Project
 >> html : html 결과 소스 <br />
 >> html_src : html 작업 소스 <br />
 >> images : 이미지 파일 <br />
->> js : js 결과 소스 <br />
 >> js_src : js 작업 소스 <br />
 >
 >
