@@ -4,7 +4,7 @@
 
 Incheon Airport Project
 
-    >airport
+> airport
 
       ┗ css : css 결과 소스
       ┗ css_src : scss 작업 소스
