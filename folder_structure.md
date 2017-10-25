@@ -65,3 +65,14 @@ Incheon Airport Project
 
 
 ## 서버 반영 폴더 구조
+
+nfront
+>
+>
+> deploy
+>
+>> ap
+>>
+>> co
+>>
+>> sm
